@@ -32,8 +32,8 @@ Smart networking systems revolutionize connectivity by enhancing efficiency, sca
 
 ## 🌐 Find Me Online
 
-- [GitHub](https://github.com/Samruddi11/portfolioo.github.io)
-- [LinkedIn](https://www.linkedin.com/in/h-b-samruddi-5a0372306/)
+- [GitHub]
+- [LinkedIn]
 
 ## Portfolio Highlights
 
