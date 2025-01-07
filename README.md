@@ -32,7 +32,7 @@ Smart networking systems revolutionize connectivity by enhancing efficiency, sca
 
 ## 🌐 Find Me Online
 
-- [GitHub]
+- [GitHub]https://[aishwaryashirol.github.io/portfolio.github.io/]
 - [LinkedIn]
 
 ## Portfolio Highlights
